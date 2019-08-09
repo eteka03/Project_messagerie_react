@@ -6,6 +6,14 @@ Objectif du Projet
  ---parcourir tous les aspects de base de reactjs
 
 
+ ******PHILOSOPHIE DU PROJET ******
+
+  -- le systeme a 3 interfaces utilisateurs(appelé 'poste' ici) qui permettent l'interaction entre les utilisateurs et le systeme.Chaque poste ouvre la mesagerie de l'utilisateur qui se connecte si ce dernier repond au criteres d'identification c-a-dire (username,password)
+
+  etape: mise en place du modele user et du modele poste
+
+
+
 
 
 
