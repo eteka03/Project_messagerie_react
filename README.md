@@ -1,3 +1,16 @@
+Objectif du Projet
+ ---Un service de messagerie entre 3 utilisateurs.Chaque utilisateur a des identifiants, se connecte et a accès à sa messagerie.chaque utilisateur peut consulter sa messagerie , voir les messages non lu et envoyez des messages.
+
+
+ ojectif technique du projet
+ ---parcourir tous les aspects de base de reactjs
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
